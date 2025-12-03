@@ -2,5 +2,5 @@ a = input('Введите числа через пробел в одну стр�
 s = []
 for i in a.split():
     s.append(int(a))
-print(max(s))
+print(min(s))
 
